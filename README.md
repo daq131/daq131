@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daq131
+- 👋 Hi, I’m Dawid :)
 - 👀 Passionate about beautiful, modern web design.
 - 🌱 I’m currently learning JS frameworks like Vue, React and js runtime - Node.
 - 💞️ I'm teacher and privately lucky husband and father of four sons. 
